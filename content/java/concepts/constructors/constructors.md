@@ -20,6 +20,9 @@ In Java, every time the `new` keyword is used to create an object, at least one 
 - Default constructor: These constructors do not accept any parameters.
 - Parameterized constructor: These constructors accept a specific number of parameters.
 
+## Note
+whenever we dont create a constructor in our java class a defalut constructor is created for us at the time of execution.
+
 ## Creating Constructors
 
 Here are some rules for creating constructors:
